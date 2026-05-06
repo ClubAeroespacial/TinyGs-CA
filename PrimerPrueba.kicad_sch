@@ -5065,7 +5065,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 372.11 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5297,8 +5297,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
-			(at 336.042 95.7581 0)
+		(property "Value" "CC0603KRX7R9BB103"
+			(at 318.516 95.758 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5308,7 +5308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 344.4748 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -5379,7 +5379,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "CC0603KRX7R9BB103"
 			(at 389.89 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5390,7 +5390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 387.0452 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5935,7 +5935,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 351.79 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6023,7 +6023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 375.412 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -6187,7 +6187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 355.092 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -6257,7 +6257,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "CL21A226MPQNNNE"
 			(at 368.046 96.012 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -6268,7 +6268,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 365.4552 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6831,7 +6831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 375.412 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -7149,7 +7149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 321.31 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -7826,7 +7826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 355.092 72.39 90)
 			(hide yes)
 			(show_name no)
