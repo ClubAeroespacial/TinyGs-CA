@@ -4972,7 +4972,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WJ500V-5.08-2P"
+		(property "Value" "Bornera doble"
 			(at 284.48 27.9399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4985,6 +4985,7 @@
 		)
 		(property "Footprint" "TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm"
 			(at 279.4 26.67 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5006,6 +5007,17 @@
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 279.4 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS part" "C8465"
+			(at 279.4 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5297,8 +5309,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB103"
-			(at 318.516 95.758 0)
+		(property "Value" "10nF"
+			(at 334.772 95.504 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5331,6 +5343,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 345.44 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C100042"
 			(at 345.44 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5379,7 +5402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB103"
+		(property "Value" "10nF"
 			(at 389.89 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5413,6 +5436,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 386.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C100042"
+			(at 386.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 386.08 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5493,6 +5538,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 210.82 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C42381680"
 			(at 210.82 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5646,6 +5702,17 @@
 				)
 			)
 		)
+		(property "LSCS part" "C916383"
+			(at 406.4 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b806fe6a-ccd3-411d-b1f4-c529e178368a")
 		)
@@ -5764,7 +5831,7 @@
 				)
 			)
 		)
-		(property "Value" "RC0603FR-0712KL"
+		(property "Value" "12k"
 			(at 388.62 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5774,7 +5841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 388.62 32.258 90)
 			(hide yes)
 			(show_name no)
@@ -5798,6 +5865,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 388.62 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C114659"
+			(at 388.62 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 388.62 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6012,7 +6101,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RC0603FR-07470RL"
+		(property "Value" "470"
 			(at 379.73 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6046,6 +6135,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 377.19 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C114669"
+			(at 377.19 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 377.19 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6094,7 +6205,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF -CL10A106KP8NNNC"
+		(property "Value" "10uF"
 			(at 323.85 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6128,6 +6239,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 320.04 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C19702"
 			(at 320.04 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -6176,7 +6298,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RC0603FR-07470RL"
+		(property "Value" "470"
 			(at 359.41 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6210,6 +6332,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 356.87 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C114669"
+			(at 356.87 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 356.87 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6257,8 +6401,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CL21A226MPQNNNE"
-			(at 368.046 96.012 0)
+		(property "Value" "22uF"
+			(at 367.792 97.282 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6291,6 +6435,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 364.49 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C29277"
 			(at 364.49 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6415,7 +6570,7 @@
 				)
 			)
 		)
-		(property "Value" "RTT0360R0FTP"
+		(property "Value" "60"
 			(at 431.8 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6448,6 +6603,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 435.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C166918"
+			(at 435.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 435.61 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6538,6 +6715,17 @@
 				)
 			)
 		)
+		(property "LCSC part" "C126027"
+			(at 307.34 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "51a77093-06b0-4938-a280-62629bb393a6")
 		)
@@ -6579,7 +6767,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RC0603FR-0712KL"
+		(property "Value" "12k"
 			(at 359.41 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6590,7 +6778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 355.092 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -6613,6 +6801,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 356.87 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C114659"
+			(at 356.87 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 356.87 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6660,7 +6870,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF -CL10A106KP8NNNC"
+		(property "Value" "10uF"
 			(at 198.12 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6694,6 +6904,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 198.12 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C19702"
+			(at 198.12 49.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6820,7 +7041,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RC0603FR-0712KL"
+		(property "Value" "12k"
 			(at 379.73 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6854,6 +7075,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 377.19 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C114659"
+			(at 377.19 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 377.19 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6901,7 +7144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GiantOhm GR0402J18RTAG00"
+		(property "Value" "18"
 			(at 326.39 36.8299 0)
 			(hide yes)
 			(show_name no)
@@ -6937,6 +7180,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 323.85 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C49653372"
+			(at 323.85 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7139,7 +7393,7 @@
 				)
 			)
 		)
-		(property "Value" "PH2.54-06PB2G-H25"
+		(property "Value" "Terminales programacion"
 			(at 322.58 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7173,6 +7427,17 @@
 		)
 		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 321.31 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C42431807"
+			(at 321.31 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7379,6 +7644,17 @@
 				)
 			)
 		)
+		(property "LCSC part" "C916383"
+			(at 364.49 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8ad32dbc-3c61-4ae9-a462-1585db80222f")
 		)
@@ -7419,7 +7695,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB103"
+		(property "Value" "10nF"
 			(at 198.12 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7453,6 +7729,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 198.12 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C100042"
+			(at 198.12 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7535,6 +7822,17 @@
 		)
 		(property "Description" "ESP32-C3-MINI-1 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth®Low Energy (Bluetooth LE)."
 			(at 83.82 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C2838502"
+			(at 83.82 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7734,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF -CL10A106KP8NNNC"
+		(property "Value" "10uF"
 			(at 295.91 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7768,6 +8066,28 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 295.91 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C19702"
+			(at 295.91 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 295.91 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7815,7 +8135,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RC0603FR-0712KL"
+		(property "Value" "12k"
 			(at 359.41 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7849,6 +8169,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 356.87 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS part" "C114659"
 			(at 356.87 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -7896,7 +8227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GiantOhm GR0402J18RTAG00"
+		(property "Value" "18"
 			(at 323.85 36.8299 0)
 			(hide yes)
 			(show_name no)
@@ -7932,6 +8263,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 321.31 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C49653372"
+			(at 321.31 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7977,7 +8319,7 @@
 				)
 			)
 		)
-		(property "Value" "YLED1206R"
+		(property "Value" "Yellow led"
 			(at 431.8 73.9775 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8022,6 +8364,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 435.61 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC part" "C28310439"
+			(at 435.61 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
