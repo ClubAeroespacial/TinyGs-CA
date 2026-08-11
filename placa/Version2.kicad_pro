@@ -60,10 +60,10 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -156,7 +156,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -489,7 +489,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PrimerPrueba.kicad_pro",
+    "filename": "Version2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,7 +656,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PrimerPrueba.kicad_sch",
+        "filename": "Version2.kicad_sch",
         "name": "Raíz",
         "uuid": "aae13084-a04a-4f84-b0e9-f92aba7f898e"
       }

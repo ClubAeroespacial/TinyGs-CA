@@ -1,0 +1,23 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.lck
+~*
+fp-info-cache
+*.bak
+*-bak
+
+# KiCad: la carpeta production se regenera. Nunca versionar gerbers viejos:
+# ver ERRATA #7
+production/
+
+# Arduino
+build/
+*.hex
+*.elf
+*.bin
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
